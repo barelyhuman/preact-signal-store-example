@@ -1,11 +1,8 @@
 {
-  "name": "react",
+  "name": "preact-store-example",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "Simple example of how you can define model classes using @preact/signals-react in react\n",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "@preact/signals-react": "1.2.2",
