@@ -1,2 +1,3 @@
 # preact-signal-store-example
-Created with CodeSandbox
+
+Simple example of how you can define model classes using @preact/signals-react in react
