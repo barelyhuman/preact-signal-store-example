@@ -28,5 +28,9 @@ const CartAddButton = () => {
 
 const CardItemCount = () => {
   const root = useStore();
-  return <p>{root.cart.count}</p>;
+  return (
+    <p>
+      <span>{root.cart.count}</span>/<span>{root.cart.countDouble}</span>
+    </p>
+  );
 };
